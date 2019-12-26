@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e0c201ef-4b3e-4194-a298-9a7967108c84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +169,7 @@
       <workItem from="1577065458140" duration="18909000" />
       <workItem from="1577150467874" duration="3063000" />
       <workItem from="1577236362188" duration="15138000" />
-      <workItem from="1577324502603" duration="5929000" />
+      <workItem from="1577324502603" duration="7533000" />
     </task>
     <servers />
   </component>
